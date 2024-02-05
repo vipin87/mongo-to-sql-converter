@@ -12,7 +12,8 @@ const operatorsMap = {
   $gte: '>=',
   $ne: '!=',
   $in: 'IN',
-  $eq: '='
+  $eq: '=',
+  $like: 'like'
 }
 
 /**
