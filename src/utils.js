@@ -14,7 +14,8 @@ const operatorsMap = {
   $in: 'IN',
   $eq: '=',
   $like: 'like',
-  $isnot: 'is not'
+  $isnot: 'is not',
+  $is: 'is'
 }
 
 /**
